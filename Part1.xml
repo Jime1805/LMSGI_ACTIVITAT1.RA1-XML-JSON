@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<store>
+    <products id="P001" availability = "in-stock">
+        <name>iPhone 16 128GB Azul</name>
+            <description>Chip A18. Superrápido. Superinteligente.</description>
+            <price currency="EUR">794.41</price>
+            <category>Electrònica</category>
+            <image>https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202409/10/00194612201288____11__1200x1200.jpg</image>
+    </products>
+</store>
+
+<store>
+    <products id="P002" availability = "in-stock">
+        <name>iPhone 15 128GB Azul</name>
+            <description>Chip A18. Superrápido. Superinteligente.</description>
+            <price currency="EUR">794.41</price>
+            <category>Electrònica</category>
+            <image>https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202409/10/00194612201288____11__1200x1200.jpg</image>
+    </products>
+</store>
