@@ -6,6 +6,7 @@
             <description>Chip A18. Superrápido. Superinteligente.</description>
             <price currency="EUR">794.41</price>
             <category>Electrònica</category>
+            <stock>En estoc</stock>
             <image>https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202409/10/00194612201288____11__1200x1200.jpg</image>
     </products>
 </store>
@@ -16,6 +17,7 @@
             <description>Chip A18. Superrápido. Superinteligente.</description>
             <price currency="EUR">794.41</price>
             <category>Electrònica</category>
+            <stock>Esgotat</stock>
             <image>https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202409/10/00194612201288____11__1200x1200.jpg</image>
     </products>
 </store>
