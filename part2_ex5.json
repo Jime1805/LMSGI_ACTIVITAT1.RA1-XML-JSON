@@ -1,0 +1,58 @@
+{
+    "Pokemons":[
+        {
+            "Pokemon":{
+                "ID": 448,
+                "Nom": "Lucario",
+                "Tipus": ["lluita", "acer"],
+                "Pes":  "54 kg",
+                "Altura": "1.2 m",
+                "Estadistiques": {
+                    "Velocitat": 4,
+                    "Fortalesa": 5,
+                    "Precisio": 5,
+                    "Resistència": 3
+                },
+                "Moviment":{
+                    "Nom": "Atac osi",
+                    "Descripcio": "És un moviment de tipus terra introduit en la segona generació.",
+                    "Potència": 25,
+                    "Contacte": "fisic"
+                },
+                "Imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d0/latest/20150621180604/Lucario.png/300px-Lucario.png",
+                "Evolucions": {
+                    "ID": null,
+                    "Nom": "Mega-Lucario",
+                    "Nivell": null
+                }
+            }
+        },
+        {
+            "Pokemon":{
+                "ID": 384,
+                "Nom": "Rayquaza",
+                "Tipus": ["Drac", "Volador"],
+                "Pes":  "206.5 kg",
+                "Altura": "7 m",
+                "Estadistiques": {
+                    "Velocitat": 5,
+                    "Fortalesa": 5,
+                    "Precisio": 3,
+                    "Resistència": 5
+                },
+                "Moviment":{
+                    "Nom": "Ascenso draco",
+                    "Descripcio": "És un moviment de tipus volador introduit en la sisena generació.",
+                    "Potència": 190,
+                    "Contacte": "fisic"
+                },
+                "Imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/6/66/Rayquaza.png",
+                "Evolucions": {
+                    "ID": null,
+                    "Nom": "Mega-Rayquaza",
+                    "Nivell": null
+                }
+            }
+        }
+    ]
+}
